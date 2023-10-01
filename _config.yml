@@ -26,4 +26,4 @@ plugins:
   - jekyll-seo-tag
 
 
-baseurl: "/yylsp"
+# baseurl: "/yylsp"
